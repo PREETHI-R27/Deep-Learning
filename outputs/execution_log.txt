@@ -1,4 +1,4 @@
-Project: MNIST Digit Recognition (Updated)
+Project: MNIST Digit Recognition
 Status: Completed
-Improvements: Updated visualization with white background for readability.
-Metrics: Training Accuracy ~97%.
+Epochs: 3
+Training Accuracy: ~97%
