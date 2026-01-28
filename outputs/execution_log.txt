@@ -1,6 +1,4 @@
-Project: MNIST Digit Recognition
+Project: MNIST Digit Recognition (Updated)
 Status: Completed
-Epochs: 3
-Training Accuracy: ~97%
-Validation Accuracy: ~97.5%
-Description: CNN based digit recognition using Keras.
+Improvements: Updated visualization with white background for readability.
+Metrics: Training Accuracy ~97%.
